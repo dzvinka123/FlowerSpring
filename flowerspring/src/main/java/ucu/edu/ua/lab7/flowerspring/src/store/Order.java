@@ -1,4 +1,4 @@
-package ucu.edu.ua.lab7.flowerspring.src;
+package ucu.edu.ua.lab7.flowerspring.src.store;
 
 import lombok.Setter;
 
